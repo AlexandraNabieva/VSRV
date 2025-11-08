@@ -1,0 +1,10 @@
+Line 1: Testing signal handling - Ctrl+C to interrupt
+Line 2: Testing signal handling - Ctrl+C to interrupt
+Line 3: Testing signal handling - Ctrl+C to interrupt
+Line 4: Testing signal handling - Ctrl+C to interrupt
+Line 5: Testing signal handling - Ctrl+C to interrupt
+Line 6: Testing signal handling - Ctrl+C to interrupt
+Line 7: Testing signal handling - Ctrl+C to interrupt
+Line 8: Testing signal handling - Ctrl+C to interrupt
+Line 9: Testing signal handling - Ctrl+C to interrupt
+Line 10: Testing signal handling - Ctrl+C to interrupt
